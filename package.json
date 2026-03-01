@@ -15,7 +15,10 @@
     "@react-navigation/bottom-tabs": "^7.4.0",
     "@react-navigation/elements": "^2.6.3",
     "@react-navigation/native": "^7.1.8",
-    "antd-mobile": "^5.42.3",
+    "@tamagui/button": "^2.0.0-rc.21",
+    "@tamagui/config": "^2.0.0-rc.21",
+    "@tamagui/core": "^2.0.0-rc.21",
+    "@tamagui/input": "^2.0.0-rc.21",
     "babel-preset-expo": "^55.0.10",
     "expo": "~54.0.33",
     "expo-constants": "~18.0.13",
@@ -40,7 +43,8 @@
     "react-native-safe-area-context": "~5.6.0",
     "react-native-screens": "~4.16.0",
     "react-native-web": "~0.21.0",
-    "react-native-worklets": "0.5.1"
+    "react-native-worklets": "0.5.1",
+    "tamagui": "^2.0.0-rc.21"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.1",
